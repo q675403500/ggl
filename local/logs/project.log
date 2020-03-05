@@ -1,0 +1,732 @@
+2019-12-18T02:11:39.094Z - normal: Load ~/.CocosCreator/settings.json
+2019-12-18T02:11:39.146Z - normal: Initializing Asset Database
+2019-12-18T02:11:39.156Z - normal: checking language setting...
+2019-12-18T02:11:39.156Z - normal: Language: zh
+2019-12-18T02:11:39.771Z - success: preview server running at http://localhost:7456
+2019-12-18T02:11:39.775Z - success: protocol editor-framework registered
+2019-12-18T02:11:39.775Z - success: protocol app registered
+2019-12-18T02:11:39.775Z - success: protocol theme registered
+2019-12-18T02:11:39.775Z - success: protocol packages registered
+2019-12-18T02:11:39.775Z - success: protocol uuid registerred
+2019-12-18T02:11:39.775Z - success: protocol db registerred
+2019-12-18T02:11:39.775Z - success: protocol thumbnail registerred
+2019-12-18T02:11:39.775Z - success: protocol unpack registerred
+2019-12-18T02:11:39.775Z - success: protocol disable-commonjs registerred
+2019-12-18T02:11:39.939Z - normal: connected!
+2019-12-18T02:11:39.939Z - normal: Check project G:\ggl
+2019-12-18T02:11:39.940Z - normal: Initializing project G:\ggl
+2019-12-18T02:11:39.973Z - success: adapters loaded
+2019-12-18T02:11:39.982Z - success: asset-db-debugger loaded
+2019-12-18T02:11:40.056Z - success: fb-audience-network loaded
+2019-12-18T02:11:40.097Z - success: fb-live-stream loaded
+2019-12-18T02:11:40.113Z - success: google-play-instant loaded
+2019-12-18T02:11:40.139Z - success: huawei-runtime loaded
+2019-12-18T02:11:40.143Z - success: jkw-adapter loaded
+2019-12-18T02:11:40.147Z - success: jsb-adapter loaded
+2019-12-18T02:11:40.169Z - success: oppo-runtime loaded
+2019-12-18T02:11:40.181Z - success: package-manager loaded
+2019-12-18T02:11:40.196Z - success: runtime-dev-tools loaded
+2019-12-18T02:11:40.214Z - success: sdkbox loaded
+2019-12-18T02:11:40.227Z - success: ui-kit-preview-extra loaded
+2019-12-18T02:11:40.237Z - success: ui-kit-preview loaded
+2019-12-18T02:11:40.270Z - success: vivo-runtime loaded
+2019-12-18T02:11:40.273Z - success: alipay-minigame loaded
+2019-12-18T02:11:40.317Z - success: assets loaded
+2019-12-18T02:11:40.319Z - success: baidugame-opendata loaded
+2019-12-18T02:11:40.322Z - success: baidugame loaded
+2019-12-18T02:11:40.331Z - success: builder loaded
+2019-12-18T02:11:40.450Z - success: cocos-services loaded
+2019-12-18T02:11:40.453Z - success: console loaded
+2019-12-18T02:11:40.468Z - success: fb-instant-games loaded
+2019-12-18T02:11:40.471Z - success: game-window loaded
+2019-12-18T02:11:40.472Z - success: google-instant-games loaded
+2019-12-18T02:11:40.474Z - success: hierarchy loaded
+2019-12-18T02:11:40.476Z - success: inspector loaded
+2019-12-18T02:11:40.944Z - success: cpk-publish loaded
+2019-12-18T02:11:40.948Z - success: keystore loaded
+2019-12-18T02:11:40.961Z - success: node-library loaded
+2019-12-18T02:11:40.962Z - success: open-recent-items loaded
+2019-12-18T02:11:40.964Z - success: package-asset loaded
+2019-12-18T02:11:40.965Z - success: preferences loaded
+2019-12-18T02:11:40.966Z - success: project-exporter loaded
+2019-12-18T02:11:40.968Z - success: project-importer loaded
+2019-12-18T02:11:40.969Z - success: project-settings loaded
+2019-12-18T02:11:40.971Z - success: scene loaded
+2019-12-18T02:11:40.972Z - success: simulator-debugger loaded
+2019-12-18T02:11:40.973Z - success: sprite-editor loaded
+2019-12-18T02:11:40.974Z - success: store loaded
+2019-12-18T02:11:40.976Z - success: timeline loaded
+2019-12-18T02:11:40.978Z - success: wechatgame-opendata loaded
+2019-12-18T02:11:40.981Z - success: wechatgame loaded
+2019-12-18T02:11:40.983Z - success: xiaomi-runtime loaded
+2019-12-18T02:11:41.733Z - normal: Initializing Cocos2d
+2019-12-18T02:11:43.698Z - normal: Initializing engine extends
+2019-12-18T02:11:45.491Z - info: Cocos Service load base data!
+2019-12-18T02:12:02.470Z - normal: Loading packages
+2019-12-18T02:12:02.497Z - normal: Watching packages
+2019-12-18T02:12:03.184Z - normal: Run Application
+2019-12-18T02:12:05.583Z - success: huawei-runtime unloaded
+2019-12-18T02:12:05.584Z - success: huawei-runtime loaded
+2019-12-18T02:12:05.637Z - success: oppo-runtime unloaded
+2019-12-18T02:12:05.638Z - success: oppo-runtime loaded
+2019-12-18T02:12:05.693Z - success: vivo-runtime unloaded
+2019-12-18T02:12:05.717Z - success: vivo-runtime loaded
+2019-12-18T02:31:37.811Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.exports.remove (E:\CocosCreator221\resources\app.asar\editor\builtin\assets\panel\utils\cache.js:1:2090)
+    at Object.exports.remove (E:\CocosCreator221\resources\app.asar\editor\builtin\assets\panel\utils\operation.js:1:2741)
+    at eval (E:\CocosCreator221\resources\app.asar\editor\builtin\assets\panel\index.js:1:4308)
+    at Array.forEach (<anonymous>)
+    at HTMLElement.asset-db:assets-deleted (E:\CocosCreator221\resources\app.asar\editor\builtin\assets\panel\index.js:1:4294)
+    at EventEmitter.<anonymous> (E:\CocosCreator221\resources\app.asar\editor-framework\lib\renderer\ui\panel\frame.js:1:3124)
+    at EventEmitter.emit (events.js:199:15)
+2019-12-18T02:40:11.114Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/top_bg"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "750c8b81-df65-4338-a971-29adb099749c"
+
+2019-12-18T02:40:11.114Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/shuxian0"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "09436af5-bb62-4936-9c48-4e027c752f24"
+
+2019-12-18T02:40:11.115Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/kuang"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "890568a7-8fe9-4883-b63e-566a86b2018c"
+
+2019-12-18T02:40:11.115Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/toux/toux/sp_icon"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "a9ec85cb-66ea-4bb7-8e32-ce1cf132e346"
+
+2019-12-18T02:40:11.115Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/toux/kuang"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "388b39af-0829-4611-b893-9934d7f825f3"
+
+2019-12-18T02:40:11.116Z - warn: The Asset used by component "cc.Sprite" in prefab "uiLeaderBoard.prefab" is missing. Detailed information:
+Node path: "uiLeaderBoard/node_main/top/Win $"
+Asset url: "db://assets/resources/ui/uiHall/uiLeaderBoard.prefab"
+Missing uuid: "6a7a79be-a369-4251-839d-78a09246e710"
+
+2019-12-18T02:40:11.116Z - warn: The Asset used by component "cc.Sprite" in prefab "uiLeaderBoard.prefab" is missing. Detailed information:
+Node path: "uiLeaderBoard/node_main/top/xian01"
+Asset url: "db://assets/resources/ui/uiHall/uiLeaderBoard.prefab"
+Missing uuid: "750c8b81-df65-4338-a971-29adb099749c"
+
+2019-12-18T02:40:11.116Z - warn: The Asset used by component "cc.Sprite" in prefab "uiLeaderBoard.prefab" is missing. Detailed information:
+Node path: "uiLeaderBoard/node_main/top/jiangbei"
+Asset url: "db://assets/resources/ui/uiHall/uiLeaderBoard.prefab"
+Missing uuid: "71f4abbe-a573-4a41-95bf-85fc89ead3ae"
+
+2019-12-18T02:40:11.118Z - warn: The Asset used by component "cc.Sprite" in prefab "uiLeaderBoard.prefab" is missing. Detailed information:
+Node path: "uiLeaderBoard/node_bottom/shuxian0"
+Asset url: "db://assets/resources/ui/uiHall/uiLeaderBoard.prefab"
+Missing uuid: "a82e516e-a75c-4fc8-8b4d-c9fa7e37c31b"
+
+2019-12-18T02:40:11.119Z - warn: The Asset used by component "cc.Sprite" in prefab "uiLeaderBoard.prefab" is missing. Detailed information:
+Node path: "uiLeaderBoard/node_bottom/kuang"
+Asset url: "db://assets/resources/ui/uiHall/uiLeaderBoard.prefab"
+Missing uuid: "890568a7-8fe9-4883-b63e-566a86b2018c"
+
+2019-12-18T02:40:11.119Z - warn: The Asset used by component "cc.Sprite" in prefab "uiLeaderBoard.prefab" is missing. Detailed information:
+Node path: "uiLeaderBoard/node_bottom/toux/toux/sp_icon"
+Asset url: "db://assets/resources/ui/uiHall/uiLeaderBoard.prefab"
+Missing uuid: "a9ec85cb-66ea-4bb7-8e32-ce1cf132e346"
+
+2019-12-18T02:40:11.119Z - warn: The Asset used by component "cc.Sprite" in prefab "uiLeaderBoard.prefab" is missing. Detailed information:
+Node path: "uiLeaderBoard/node_bottom/toux/kuang"
+Asset url: "db://assets/resources/ui/uiHall/uiLeaderBoard.prefab"
+Missing uuid: "388b39af-0829-4611-b893-9934d7f825f3"
+
+2019-12-18T02:40:11.199Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/top_bg"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "750c8b81-df65-4338-a971-29adb099749c"
+
+2019-12-18T02:40:11.199Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/shuxian0"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "09436af5-bb62-4936-9c48-4e027c752f24"
+
+2019-12-18T02:40:11.200Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/kuang"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "890568a7-8fe9-4883-b63e-566a86b2018c"
+
+2019-12-18T02:40:11.200Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/toux/toux/sp_icon"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "a9ec85cb-66ea-4bb7-8e32-ce1cf132e346"
+
+2019-12-18T02:40:11.200Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/toux/kuang"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "388b39af-0829-4611-b893-9934d7f825f3"
+
+2019-12-18T02:40:11.201Z - warn: The Asset used by component "cc.Sprite" in prefab "uiLeaderBoard.prefab" is missing. Detailed information:
+Node path: "uiLeaderBoard/node_main/top/Win $"
+Asset url: "db://assets/resources/ui/uiHall/uiLeaderBoard.prefab"
+Missing uuid: "6a7a79be-a369-4251-839d-78a09246e710"
+
+2019-12-18T02:40:11.201Z - warn: The Asset used by component "cc.Sprite" in prefab "uiLeaderBoard.prefab" is missing. Detailed information:
+Node path: "uiLeaderBoard/node_main/top/xian01"
+Asset url: "db://assets/resources/ui/uiHall/uiLeaderBoard.prefab"
+Missing uuid: "750c8b81-df65-4338-a971-29adb099749c"
+
+2019-12-18T02:40:11.201Z - warn: The Asset used by component "cc.Sprite" in prefab "uiLeaderBoard.prefab" is missing. Detailed information:
+Node path: "uiLeaderBoard/node_main/top/jiangbei"
+Asset url: "db://assets/resources/ui/uiHall/uiLeaderBoard.prefab"
+Missing uuid: "71f4abbe-a573-4a41-95bf-85fc89ead3ae"
+
+2019-12-18T02:40:11.202Z - warn: The Asset used by component "cc.Sprite" in prefab "uiLeaderBoard.prefab" is missing. Detailed information:
+Node path: "uiLeaderBoard/node_bottom/shuxian0"
+Asset url: "db://assets/resources/ui/uiHall/uiLeaderBoard.prefab"
+Missing uuid: "a82e516e-a75c-4fc8-8b4d-c9fa7e37c31b"
+
+2019-12-18T02:40:11.203Z - warn: The Asset used by component "cc.Sprite" in prefab "uiLeaderBoard.prefab" is missing. Detailed information:
+Node path: "uiLeaderBoard/node_bottom/kuang"
+Asset url: "db://assets/resources/ui/uiHall/uiLeaderBoard.prefab"
+Missing uuid: "890568a7-8fe9-4883-b63e-566a86b2018c"
+
+2019-12-18T02:40:11.203Z - warn: The Asset used by component "cc.Sprite" in prefab "uiLeaderBoard.prefab" is missing. Detailed information:
+Node path: "uiLeaderBoard/node_bottom/toux/toux/sp_icon"
+Asset url: "db://assets/resources/ui/uiHall/uiLeaderBoard.prefab"
+Missing uuid: "a9ec85cb-66ea-4bb7-8e32-ce1cf132e346"
+
+2019-12-18T02:40:11.203Z - warn: The Asset used by component "cc.Sprite" in prefab "uiLeaderBoard.prefab" is missing. Detailed information:
+Node path: "uiLeaderBoard/node_bottom/toux/kuang"
+Asset url: "db://assets/resources/ui/uiHall/uiLeaderBoard.prefab"
+Missing uuid: "388b39af-0829-4611-b893-9934d7f825f3"
+
+2019-12-18T02:56:28.901Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/top_bg"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "750c8b81-df65-4338-a971-29adb099749c"
+
+2019-12-18T02:56:28.901Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/shuxian0"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "09436af5-bb62-4936-9c48-4e027c752f24"
+
+2019-12-18T02:56:28.901Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/kuang"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "890568a7-8fe9-4883-b63e-566a86b2018c"
+
+2019-12-18T02:56:28.902Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/toux/toux/sp_icon"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "a9ec85cb-66ea-4bb7-8e32-ce1cf132e346"
+
+2019-12-18T02:56:28.902Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/toux/kuang"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "388b39af-0829-4611-b893-9934d7f825f3"
+
+2019-12-18T02:56:28.958Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/top_bg"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "750c8b81-df65-4338-a971-29adb099749c"
+
+2019-12-18T02:56:28.959Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/shuxian0"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "09436af5-bb62-4936-9c48-4e027c752f24"
+
+2019-12-18T02:56:28.959Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/kuang"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "890568a7-8fe9-4883-b63e-566a86b2018c"
+
+2019-12-18T02:56:28.959Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/toux/toux/sp_icon"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "a9ec85cb-66ea-4bb7-8e32-ce1cf132e346"
+
+2019-12-18T02:56:28.959Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyLeaderBoardItem.prefab" is missing. Detailed information:
+Node path: "enenyLeaderBoardItem/toux/kuang"
+Asset url: "db://assets/resources/ui/game/enenyLeaderBoardItem.prefab"
+Missing uuid: "388b39af-0829-4611-b893-9934d7f825f3"
+
+2019-12-18T03:00:07.599Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_rewards/1"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "31b40e7d-a7d7-4757-8273-7c81f1dcf962"
+
+2019-12-18T03:00:07.599Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_cash/2"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "fe03e719-5ad1-40cd-8f24-89975722d7ef"
+
+2019-12-18T03:00:07.599Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_leaderBoard/3"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "8a75ad4b-0fd5-4dd7-a653-d9a6005cf7d1"
+
+2019-12-18T03:00:07.600Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_settings/4"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "df9f3b17-50c7-4aa4-97be-4dd8a9f53b3e"
+
+2019-12-18T03:00:07.600Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_edit/toux/sp_icon"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "c345bb1a-36da-43be-b1f1-8a7f58e1c0b3"
+
+2019-12-18T03:00:07.600Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_edit/kuang"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "ab4df1cc-f642-4a69-95e4-e5654f99312d"
+
+2019-12-18T03:00:07.761Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_rewards/1"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "31b40e7d-a7d7-4757-8273-7c81f1dcf962"
+
+2019-12-18T03:00:07.761Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_cash/2"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "fe03e719-5ad1-40cd-8f24-89975722d7ef"
+
+2019-12-18T03:00:07.761Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_leaderBoard/3"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "8a75ad4b-0fd5-4dd7-a653-d9a6005cf7d1"
+
+2019-12-18T03:00:07.762Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_settings/4"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "df9f3b17-50c7-4aa4-97be-4dd8a9f53b3e"
+
+2019-12-18T03:00:07.762Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_edit/toux/sp_icon"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "c345bb1a-36da-43be-b1f1-8a7f58e1c0b3"
+
+2019-12-18T03:00:07.762Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_edit/kuang"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "ab4df1cc-f642-4a69-95e4-e5654f99312d"
+
+2019-12-18T03:09:57.738Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsInfo.prefab" is missing. Detailed information:
+Node path: "enenyRewardsInfo/node_main/yamaxunka"
+Asset url: "db://assets/resources/ui/game/enenyRewardsInfo.prefab"
+Missing uuid: "14b8c9f2-9eb9-4839-85f4-0908a9c0bf08"
+
+2019-12-18T03:09:57.739Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsInfo.prefab" is missing. Detailed information:
+Node path: "enenyRewardsInfo/node_main/btn_edit"
+Asset url: "db://assets/resources/ui/game/enenyRewardsInfo.prefab"
+Missing uuid: "5545daf0-02e0-40c4-99f8-a40a3a11485d"
+
+2019-12-18T03:09:57.741Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsInfo.prefab" is missing. Detailed information:
+Node path: "enenyRewardsInfo/node_bttom/kuang"
+Asset url: "db://assets/resources/ui/game/enenyRewardsInfo.prefab"
+Missing uuid: "890568a7-8fe9-4883-b63e-566a86b2018c"
+
+2019-12-18T03:10:00.282Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsInfo.prefab" is missing. Detailed information:
+Node path: "enenyRewardsInfo/node_main/yamaxunka"
+Asset url: "db://assets/resources/ui/game/enenyRewardsInfo.prefab"
+Missing uuid: "14b8c9f2-9eb9-4839-85f4-0908a9c0bf08"
+
+2019-12-18T03:10:00.283Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsInfo.prefab" is missing. Detailed information:
+Node path: "enenyRewardsInfo/node_main/btn_edit"
+Asset url: "db://assets/resources/ui/game/enenyRewardsInfo.prefab"
+Missing uuid: "5545daf0-02e0-40c4-99f8-a40a3a11485d"
+
+2019-12-18T03:10:00.283Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsInfo.prefab" is missing. Detailed information:
+Node path: "enenyRewardsInfo/node_bttom/kuang"
+Asset url: "db://assets/resources/ui/game/enenyRewardsInfo.prefab"
+Missing uuid: "890568a7-8fe9-4883-b63e-566a86b2018c"
+
+2019-12-18T03:16:16.543Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsItem.prefab" is missing. Detailed information:
+Node path: "enenyRewardsItem/kuang"
+Asset url: "db://assets/resources/ui/game/enenyRewardsItem.prefab"
+Missing uuid: "c8d016df-017a-416b-a444-0f049a925850"
+
+2019-12-18T03:16:16.543Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsItem.prefab" is missing. Detailed information:
+Node path: "enenyRewardsItem/yamaxunka"
+Asset url: "db://assets/resources/ui/game/enenyRewardsItem.prefab"
+Missing uuid: "14b8c9f2-9eb9-4839-85f4-0908a9c0bf08"
+
+2019-12-18T03:16:16.603Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsItem.prefab" is missing. Detailed information:
+Node path: "enenyRewardsItem/kuang"
+Asset url: "db://assets/resources/ui/game/enenyRewardsItem.prefab"
+Missing uuid: "c8d016df-017a-416b-a444-0f049a925850"
+
+2019-12-18T03:16:16.608Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsItem.prefab" is missing. Detailed information:
+Node path: "enenyRewardsItem/yamaxunka"
+Asset url: "db://assets/resources/ui/game/enenyRewardsItem.prefab"
+Missing uuid: "14b8c9f2-9eb9-4839-85f4-0908a9c0bf08"
+
+2019-12-18T03:18:38.643Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/on"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "8474310e-dcfc-4bdb-8604-6aa4a9edb441"
+
+2019-12-18T03:18:38.643Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/off"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "26d4f3a3-935f-4e2f-a17c-8b8e2202e34b"
+
+2019-12-18T03:18:38.643Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/dialog"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "f169688f-cdb8-4d2c-aa38-dab2884a86af"
+
+2019-12-18T03:18:38.644Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_f"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "9ac9c0e2-053f-465a-bd78-2d3b9513d1e0"
+
+2019-12-18T03:18:38.644Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_t"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "7321612c-f3f9-44e9-81e8-70008eee84f0"
+
+2019-12-18T03:18:38.644Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_i"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "b1cb4064-9e41-4fad-a225-63ed356d5a4c"
+
+2019-12-18T03:18:38.712Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/on"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "8474310e-dcfc-4bdb-8604-6aa4a9edb441"
+
+2019-12-18T03:18:38.712Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/off"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "26d4f3a3-935f-4e2f-a17c-8b8e2202e34b"
+
+2019-12-18T03:18:38.712Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/dialog"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "f169688f-cdb8-4d2c-aa38-dab2884a86af"
+
+2019-12-18T03:18:38.713Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_f"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "9ac9c0e2-053f-465a-bd78-2d3b9513d1e0"
+
+2019-12-18T03:18:38.713Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_t"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "7321612c-f3f9-44e9-81e8-70008eee84f0"
+
+2019-12-18T03:18:38.713Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_i"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "b1cb4064-9e41-4fad-a225-63ed356d5a4c"
+
+2019-12-18T03:27:58.228Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsItem.prefab" is missing. Detailed information:
+Node path: "enenyRewardsItem/kuang"
+Asset url: "db://assets/resources/ui/game/enenyRewardsItem.prefab"
+Missing uuid: "c8d016df-017a-416b-a444-0f049a925850"
+
+2019-12-18T03:27:58.229Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsItem.prefab" is missing. Detailed information:
+Node path: "enenyRewardsItem/yamaxunka"
+Asset url: "db://assets/resources/ui/game/enenyRewardsItem.prefab"
+Missing uuid: "14b8c9f2-9eb9-4839-85f4-0908a9c0bf08"
+
+2019-12-18T03:27:58.374Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsItem.prefab" is missing. Detailed information:
+Node path: "enenyRewardsItem/kuang"
+Asset url: "db://assets/resources/ui/game/enenyRewardsItem.prefab"
+Missing uuid: "c8d016df-017a-416b-a444-0f049a925850"
+
+2019-12-18T03:27:58.374Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsItem.prefab" is missing. Detailed information:
+Node path: "enenyRewardsItem/yamaxunka"
+Asset url: "db://assets/resources/ui/game/enenyRewardsItem.prefab"
+Missing uuid: "14b8c9f2-9eb9-4839-85f4-0908a9c0bf08"
+
+2019-12-18T03:30:28.730Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_rewards/1"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "31b40e7d-a7d7-4757-8273-7c81f1dcf962"
+
+2019-12-18T03:30:28.730Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_cash/2"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "fe03e719-5ad1-40cd-8f24-89975722d7ef"
+
+2019-12-18T03:30:28.730Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_leaderBoard/3"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "8a75ad4b-0fd5-4dd7-a653-d9a6005cf7d1"
+
+2019-12-18T03:30:28.731Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_settings/4"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "df9f3b17-50c7-4aa4-97be-4dd8a9f53b3e"
+
+2019-12-18T03:30:28.731Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_edit/toux/sp_icon"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "c345bb1a-36da-43be-b1f1-8a7f58e1c0b3"
+
+2019-12-18T03:30:28.731Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_edit/kuang"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "ab4df1cc-f642-4a69-95e4-e5654f99312d"
+
+2019-12-18T03:30:28.792Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_rewards/1"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "31b40e7d-a7d7-4757-8273-7c81f1dcf962"
+
+2019-12-18T03:30:28.792Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_cash/2"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "fe03e719-5ad1-40cd-8f24-89975722d7ef"
+
+2019-12-18T03:30:28.792Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_leaderBoard/3"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "8a75ad4b-0fd5-4dd7-a653-d9a6005cf7d1"
+
+2019-12-18T03:30:28.793Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_settings/4"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "df9f3b17-50c7-4aa4-97be-4dd8a9f53b3e"
+
+2019-12-18T03:30:28.793Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_edit/toux/sp_icon"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "c345bb1a-36da-43be-b1f1-8a7f58e1c0b3"
+
+2019-12-18T03:30:28.793Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_edit/kuang"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "ab4df1cc-f642-4a69-95e4-e5654f99312d"
+
+2019-12-18T03:31:20.895Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/on"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "8474310e-dcfc-4bdb-8604-6aa4a9edb441"
+
+2019-12-18T03:31:20.895Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/off"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "26d4f3a3-935f-4e2f-a17c-8b8e2202e34b"
+
+2019-12-18T03:31:20.895Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/dialog"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "f169688f-cdb8-4d2c-aa38-dab2884a86af"
+
+2019-12-18T03:31:20.896Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_f"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "9ac9c0e2-053f-465a-bd78-2d3b9513d1e0"
+
+2019-12-18T03:31:20.896Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_t"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "7321612c-f3f9-44e9-81e8-70008eee84f0"
+
+2019-12-18T03:31:20.897Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_i"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "b1cb4064-9e41-4fad-a225-63ed356d5a4c"
+
+2019-12-18T03:31:20.979Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/on"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "8474310e-dcfc-4bdb-8604-6aa4a9edb441"
+
+2019-12-18T03:31:20.979Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/off"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "26d4f3a3-935f-4e2f-a17c-8b8e2202e34b"
+
+2019-12-18T03:31:20.979Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/dialog"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "f169688f-cdb8-4d2c-aa38-dab2884a86af"
+
+2019-12-18T03:31:20.980Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_f"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "9ac9c0e2-053f-465a-bd78-2d3b9513d1e0"
+
+2019-12-18T03:31:20.980Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_t"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "7321612c-f3f9-44e9-81e8-70008eee84f0"
+
+2019-12-18T03:31:20.980Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_i"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "b1cb4064-9e41-4fad-a225-63ed356d5a4c"
+
+2019-12-18T03:35:30.472Z - warn: The Asset used by component "cc.Sprite" in prefab "uiCash.prefab" is missing. Detailed information:
+Node path: "uiCash/node_main/yamaxunka"
+Asset url: "db://assets/resources/ui/uiHall/uiCash.prefab"
+Missing uuid: "e5d5ccc2-fab4-454a-8291-0babf2d00816"
+
+2019-12-18T03:35:30.472Z - warn: The Asset used by component "cc.Sprite" in prefab "uiCash.prefab" is missing. Detailed information:
+Node path: "uiCash/node_main/btn_got"
+Asset url: "db://assets/resources/ui/uiHall/uiCash.prefab"
+Missing uuid: "5545daf0-02e0-40c4-99f8-a40a3a11485d"
+
+2019-12-18T03:35:30.539Z - warn: The Asset used by component "cc.Sprite" in prefab "uiCash.prefab" is missing. Detailed information:
+Node path: "uiCash/node_main/yamaxunka"
+Asset url: "db://assets/resources/ui/uiHall/uiCash.prefab"
+Missing uuid: "e5d5ccc2-fab4-454a-8291-0babf2d00816"
+
+2019-12-18T03:35:30.539Z - warn: The Asset used by component "cc.Sprite" in prefab "uiCash.prefab" is missing. Detailed information:
+Node path: "uiCash/node_main/btn_got"
+Asset url: "db://assets/resources/ui/uiHall/uiCash.prefab"
+Missing uuid: "5545daf0-02e0-40c4-99f8-a40a3a11485d"
+
+2019-12-18T03:35:38.006Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/on"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "8474310e-dcfc-4bdb-8604-6aa4a9edb441"
+
+2019-12-18T03:35:38.006Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/off"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "26d4f3a3-935f-4e2f-a17c-8b8e2202e34b"
+
+2019-12-18T03:35:38.006Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/dialog"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "f169688f-cdb8-4d2c-aa38-dab2884a86af"
+
+2019-12-18T03:35:38.007Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_f"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "9ac9c0e2-053f-465a-bd78-2d3b9513d1e0"
+
+2019-12-18T03:35:38.008Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_t"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "7321612c-f3f9-44e9-81e8-70008eee84f0"
+
+2019-12-18T03:35:38.008Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_i"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "b1cb4064-9e41-4fad-a225-63ed356d5a4c"
+
+2019-12-18T03:35:38.072Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/on"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "8474310e-dcfc-4bdb-8604-6aa4a9edb441"
+
+2019-12-18T03:35:38.072Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/off"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "26d4f3a3-935f-4e2f-a17c-8b8e2202e34b"
+
+2019-12-18T03:35:38.072Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/vibration/btn_vibrate/dialog"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "f169688f-cdb8-4d2c-aa38-dab2884a86af"
+
+2019-12-18T03:35:38.073Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_f"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "9ac9c0e2-053f-465a-bd78-2d3b9513d1e0"
+
+2019-12-18T03:35:38.073Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_t"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "7321612c-f3f9-44e9-81e8-70008eee84f0"
+
+2019-12-18T03:35:38.073Z - warn: The Asset used by component "cc.Sprite" in prefab "enenySettings.prefab" is missing. Detailed information:
+Node path: "enenySettings/node_main/other/btn_i"
+Asset url: "db://assets/resources/ui/game/enenySettings.prefab"
+Missing uuid: "b1cb4064-9e41-4fad-a225-63ed356d5a4c"
+
+2019-12-18T03:35:49.453Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsInfo.prefab" is missing. Detailed information:
+Node path: "enenyRewardsInfo/node_main/yamaxunka"
+Asset url: "db://assets/resources/ui/game/enenyRewardsInfo.prefab"
+Missing uuid: "14b8c9f2-9eb9-4839-85f4-0908a9c0bf08"
+
+2019-12-18T03:35:49.454Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsInfo.prefab" is missing. Detailed information:
+Node path: "enenyRewardsInfo/node_main/btn_edit"
+Asset url: "db://assets/resources/ui/game/enenyRewardsInfo.prefab"
+Missing uuid: "5545daf0-02e0-40c4-99f8-a40a3a11485d"
+
+2019-12-18T03:35:49.454Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsInfo.prefab" is missing. Detailed information:
+Node path: "enenyRewardsInfo/node_bttom/kuang"
+Asset url: "db://assets/resources/ui/game/enenyRewardsInfo.prefab"
+Missing uuid: "890568a7-8fe9-4883-b63e-566a86b2018c"
+
+2019-12-18T03:35:49.641Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsInfo.prefab" is missing. Detailed information:
+Node path: "enenyRewardsInfo/node_main/yamaxunka"
+Asset url: "db://assets/resources/ui/game/enenyRewardsInfo.prefab"
+Missing uuid: "14b8c9f2-9eb9-4839-85f4-0908a9c0bf08"
+
+2019-12-18T03:35:49.642Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsInfo.prefab" is missing. Detailed information:
+Node path: "enenyRewardsInfo/node_main/btn_edit"
+Asset url: "db://assets/resources/ui/game/enenyRewardsInfo.prefab"
+Missing uuid: "5545daf0-02e0-40c4-99f8-a40a3a11485d"
+
+2019-12-18T03:35:49.642Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyRewardsInfo.prefab" is missing. Detailed information:
+Node path: "enenyRewardsInfo/node_bttom/kuang"
+Asset url: "db://assets/resources/ui/game/enenyRewardsInfo.prefab"
+Missing uuid: "890568a7-8fe9-4883-b63e-566a86b2018c"
+
+2019-12-18T03:35:57.849Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_rewards/1"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "31b40e7d-a7d7-4757-8273-7c81f1dcf962"
+
+2019-12-18T03:35:57.849Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_cash/2"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "fe03e719-5ad1-40cd-8f24-89975722d7ef"
+
+2019-12-18T03:35:57.850Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_leaderBoard/3"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "8a75ad4b-0fd5-4dd7-a653-d9a6005cf7d1"
+
+2019-12-18T03:35:57.850Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_settings/4"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "df9f3b17-50c7-4aa4-97be-4dd8a9f53b3e"
+
+2019-12-18T03:35:57.850Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_edit/toux/sp_icon"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "c345bb1a-36da-43be-b1f1-8a7f58e1c0b3"
+
+2019-12-18T03:35:57.851Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_edit/kuang"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "ab4df1cc-f642-4a69-95e4-e5654f99312d"
+
+2019-12-18T03:35:57.918Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_rewards/1"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "31b40e7d-a7d7-4757-8273-7c81f1dcf962"
+
+2019-12-18T03:35:57.919Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_cash/2"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "fe03e719-5ad1-40cd-8f24-89975722d7ef"
+
+2019-12-18T03:35:57.919Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_leaderBoard/3"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "8a75ad4b-0fd5-4dd7-a653-d9a6005cf7d1"
+
+2019-12-18T03:35:57.919Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_settings/4"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "df9f3b17-50c7-4aa4-97be-4dd8a9f53b3e"
+
+2019-12-18T03:35:57.919Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_edit/toux/sp_icon"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "c345bb1a-36da-43be-b1f1-8a7f58e1c0b3"
+
+2019-12-18T03:35:57.920Z - warn: The Asset used by component "cc.Sprite" in prefab "enenyMenu.prefab" is missing. Detailed information:
+Node path: "enenyMenu/node_main/btn_edit/kuang"
+Asset url: "db://assets/resources/ui/game/enenyMenu.prefab"
+Missing uuid: "ab4df1cc-f642-4a69-95e4-e5654f99312d"
+
+2019-12-18T03:48:01.337Z - info: shutdown preview server

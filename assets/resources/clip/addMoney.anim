@@ -1,0 +1,72 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "addMoney",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "0",
+  "curveData": {
+    "paths": {
+      "node_main": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -87.6
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "node_main/lbl_add": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.3,
+              "value": [
+                -189.3,
+                38.1
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -189.3,
+                107.8
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.3,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
